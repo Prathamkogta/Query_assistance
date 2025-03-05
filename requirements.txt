@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+torch
+warnings
+logging
+datetime
+transformer
+matplotlib
+nltk
+re
+json
+sentencepiece
